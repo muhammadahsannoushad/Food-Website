@@ -54,10 +54,10 @@
     align-items: center;
 }
 
-/* .client-item{
-    /* padding: 34px; 
-}*/
+.client-item{
+    /* padding: 34px; */
+}
 
- /*#clients img{
-    /* height: 124px; 
-} */
+#clients img{
+    /* height: 124px; */
+}
